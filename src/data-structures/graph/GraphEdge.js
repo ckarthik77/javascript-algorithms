@@ -9,7 +9,7 @@ export default class GraphEdge {
     this.endVertex = endVertex;
     this.weight = weight;
   }
-
+/* This is graph
   /**
    * @return {string}
    */
